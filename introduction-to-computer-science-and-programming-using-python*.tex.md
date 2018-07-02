@@ -29,5 +29,7 @@ def longest_alphabetical_substring(s):
     return
 ```
 
-$x^2 + y^2 = 10$
+$$
+x^2 + y^2 = 10
+$$
 

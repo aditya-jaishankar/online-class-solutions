@@ -28,8 +28,3 @@ def longest_alphabetical_substring(s):
     print('Longest substring in aplhabetical order is: ', main_longest)
     return
 ```
-
-$$
-x^2 + y^2 = 10
-$$
-
